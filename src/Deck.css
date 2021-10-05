@@ -1,0 +1,13 @@
+.Deck {
+  text-align: center;
+  background-color: green;
+}
+
+.Deck-btn {
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.Deck-cardArea {
+  margin-top: 80px;
+}
